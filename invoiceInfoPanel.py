@@ -1,5 +1,3 @@
-# 26th Sept, 2023 5:05pm
-
 import wx
 import wx.grid
 import wx.xrc

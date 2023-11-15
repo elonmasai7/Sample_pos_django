@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__license__ = """Copyright (c) 2008-2010, Toni RuÅ¾a, All rights reserved.
+__license__ = """Copyright (c) 2022-2023, Elon masai, All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
 are permitted provided that the following conditions are met:
@@ -22,8 +22,8 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE."""
 
-__author__ = u"Toni RuÅ¾a <gmr.gaf@gmail.com>"
-__url__  = "http://bitbucket.org/raz/wxautocompletectrl"
+__author__ = u"Elon masai <elonmasai7@gmail.com>"
+__url__  = "https://masaielon.netlify.app"
 
 
 import wx
